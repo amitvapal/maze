@@ -8,4 +8,4 @@ Wing Editor 7.1.0.2
 
 ## Running the tests
 1. Once the program is executed, user will need to get all the gems and reach the exit in the time limit to win the game.
-
+![](https://github.com/amitvapal/maze/blob/master/maze.png)
